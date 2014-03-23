@@ -24,7 +24,7 @@ h1 {
   font-size:28px;
 }
 
-header h1 {
+h1.logo {
   font-weight: normal;
 }
 
