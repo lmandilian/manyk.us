@@ -16,6 +16,10 @@ p, ul, ol, table, pre, dl {
   margin:0 0 40px;
 }
 
+p.contact {
+  margin-top: -30px;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
