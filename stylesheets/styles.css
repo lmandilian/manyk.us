@@ -107,7 +107,7 @@ img {
 img.avatar {
   float: right;
   width: 75px;
-  margin: -47px 0 0 20px;
+  margin: 0 0 10px 10px;
 }
 
 header {
