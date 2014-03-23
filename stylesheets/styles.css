@@ -104,6 +104,10 @@ img {
   max-width:100%;
 }
 
+img.avatar {
+  float: right;
+}
+
 header {
   width:270px;
   float:left;
